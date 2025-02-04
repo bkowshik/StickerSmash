@@ -21,10 +21,11 @@ const styles = StyleSheet.create({
   },
   text: {
     color: '#fff',
+    fontSize: 40,
   },
   button: {
-    fontSize: 20,
+    fontSize: 24,
     textDecorationLine: 'underline',
-    color: '#fff',
+    color: '#66f',
   },
 });
